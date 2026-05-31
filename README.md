@@ -216,11 +216,7 @@ https://wokwi.com/projects/461085712743707649
 
 Electronics & Communication Engineering
 
-🔗 GitHub: https://github.com/yourusername
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
-🔗 LinkedIn: your-linkedin-profile
 
 ---
 
